@@ -8,7 +8,4 @@ jlfdj
 fjoerfjlkd
 vjldfvjkdf
 jfldjlkd
-vfdlkvjdl
-vjfdlkvjld
-vjklfdjvk
 
