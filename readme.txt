@@ -5,8 +5,4 @@ Git tracks changes.
 已经修复BUG
 kshdals
 jlfdj
-fjoerfjlkd
-不使用test
-测试pull
-今天没有
-1
+这次是t1
